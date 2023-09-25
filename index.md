@@ -8,12 +8,11 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ---
 title: "R Markdown Example"
-output: html_document
 ---
 
 ## R Markdown
 
-This is an R Markdown document.
+Hello World
 
 ```{r}
 # This is a code chunk
