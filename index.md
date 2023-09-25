@@ -18,3 +18,8 @@ Hello World
 # This is a code chunk
 summary(cars)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Complete Step 4
+- [ ] Continue with First Week on github
